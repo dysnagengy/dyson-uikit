@@ -1870,7 +1870,8 @@ var Icon$i = function (props) {
 var Logo$1 = function (_a) {
     var props = __rest(_a, []);
     return (React__default['default'].createElement(Svg, __assign({ viewBox: "0 0 415 120" }, props),
-        React__default['default'].createElement("image", { width: "500", height: "120", href: '/logo_nav.png' })));
+        React__default['default'].createElement("image", { width: "500", height: "120", href: '/logo_nav.png' }),
+        React__default['default'].createElement("text", null, "DYSN AGENCY")));
 };
 
 var Icon$h = function (props) {
@@ -2691,7 +2692,7 @@ var templateObject_1;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#fcd500",
+    primary: "#ff7e18",
     primaryBright: "#aa8929",
     primaryDark: "#aa8929",
     secondary: "#7645D9",
