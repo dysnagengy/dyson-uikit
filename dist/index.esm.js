@@ -1856,7 +1856,7 @@ var Icon$i = function (props) {
 
 var Logo$1 = function (_a) {
     var props = __rest(_a, []);
-    return (React.createElement(Svg, __assign({ viewBox: "0 0 415 120" }, props),
+    return (React.createElement(Svg, __assign({ viewBox: "0 0 550 100" }, props),
         React.createElement("image", { width: "650", height: "120", href: '/logo_nav.png' })));
 };
 
